@@ -19,7 +19,7 @@ Follow these simple steps to get started with Quizzy:
    Replace `path/to/quiz-game-folder` with the actual path where the Quizzy folder is located.
 3. **Enter the Quiz Game Repository:**
     ```bash
-    cd quiz-game
+    cd game
     ```
 4. **Start the Application:**
     ```bash
