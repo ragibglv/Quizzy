@@ -1,5 +1,5 @@
-# In this project there will be a GUI based Quiz Game App called "Quizzy". It is created with the help of Tkinter python module. 
-# In order for the application run well, it is preferable to use the python 3.10.2 and upper.
+In this project there will be a GUI based Quiz Game App called "Quizzy". It is created with the help of Tkinter python module. 
+In order for the application run well, it is preferable to use the python 3.10.2 and upper.
 
 # To run game:
 1. Enter the terminal.
