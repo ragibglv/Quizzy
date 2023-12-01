@@ -30,7 +30,3 @@ Follow these simple steps to get started with Quizzy:
 
 ## Enjoy Quizzy!
 We hope you have a great time playing and learning with Quizzy. Your feedback and contributions to improve this application are always welcome.
-
----
-
-*For more information or if you encounter any issues, please refer to my [issues page](link-to-your-issues-page) or contact me directly.*
